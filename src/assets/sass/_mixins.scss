@@ -1,0 +1,12 @@
+/* Easy breakpoint mixin */
+@mixin min-width($value) {
+	@media only screen and (min-width: $value) {
+		@content;
+	}
+}
+
+@mixin max-width($value) {
+	@media only screen and (max-width: $value) {
+		@content;
+	}
+}

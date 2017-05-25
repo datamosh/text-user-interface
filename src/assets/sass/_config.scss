@@ -1,0 +1,14 @@
+@mixin font {
+	font-family: 'vga';
+	font-smooth: never;
+	-webkit-font-smoothing: none;
+	text-align: left;
+	font-size: 16px;
+}
+
+$color-background: #000000;
+$color-default: #afa8af;
+
+// Norton Commander theme:
+//$color-background: #0000af;
+//$color-default: #50ffff;

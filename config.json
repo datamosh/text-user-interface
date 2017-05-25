@@ -1,0 +1,9 @@
+{
+	"path": "files",
+	"server": "http://localhost",
+	"init_path": "/readme.txt",
+	"messages": {
+		"sidebar_status": "Use ARROWS to select files and TAB to change the focus",
+		"content_status": "Use ARROWS to scroll and TAB to change the focus"
+	}
+}
