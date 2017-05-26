@@ -69,6 +69,9 @@ Example:
 
 					// Update scroll
 					vm.scroll()
+
+					// Emit from parent change_path event. Useful for other compoents
+					vm.$parent.$emit('change_path', vm.$parent.files[vm.$parent.selected], vm.$parent.selected)
 				}
 
 				// Enter
