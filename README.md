@@ -9,11 +9,13 @@ Simple file explorer with a classic interface (inspired by MS-DOS) built with Vu
 The application is designed to be operated by the keyboard (you can also navigate with the mouse, of course).
 
 **Global shortcuts**
+
 | Keyboard Shortcut | Description |
 | --- | --- |
 | Tab | Change the focus between the sidebar and the content |
 
 **Sidebar**
+
 | Keyboard Shortcut | Description |
 | --- | --- |
 | Up & Down | Scroll through files / directories |
@@ -21,6 +23,7 @@ The application is designed to be operated by the keyboard (you can also navigat
 | Enter | Change directory |
 
 **Content**
+
 | Keyboard Shortcut | Description |
 | --- | --- |
 | Up & Down | Scroll the current file |
