@@ -67,9 +67,6 @@ Example:
 					if (selected.name && selected.type == 'file')
 						vm.$router.push(selected.path)
 
-					// Emit from parent change_path event. Useful for other compoents
-					vm.$parent.$emit('change_path', selected, vm.$parent.selected)
-
 					// Update scroll
 					vm.scroll()
 				}

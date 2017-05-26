@@ -87,6 +87,9 @@
 				// Select by current path
 				if (path.basename && path.extension)
 					vm.selected = path.basename
+
+				// Emit from parent change_path event. Useful for other compoents
+				vm.$emit('change_path', vm.files[vm.selected], vm.selected)
 			},
 
 			shortcut: function(event) {

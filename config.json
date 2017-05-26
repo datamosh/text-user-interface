@@ -1,6 +1,6 @@
 {
 	"path": "files",
-	"server": "http://localhost",
+	"server": "server_php",
 	"init_path": "/readme.txt",
 	"messages": {
 		"sidebar_status": "Use ARROWS to select files and TAB to change the focus",
