@@ -10,19 +10,19 @@ The application is designed to be operated by the keyboard (you can also navigat
 
 **Global shortcuts**
 | Keyboard Shortcut | Description |
-|-|-|
+| --- | --- |
 | Tab | Change the focus between the sidebar and the content |
 
 **Sidebar**
 | Keyboard Shortcut | Description |
-|-|-|
+| --- | --- |
 | Up & Down | Scroll through files / directories |
 | PageUp & PageDown | Scroll through files / directories (faster) |
 | Enter | Change directory |
 
 **Content**
 | Keyboard Shortcut | Description |
-|-|-|
+| --- | --- |
 | Up & Down | Scroll the current file |
 
 ## Build Setup
